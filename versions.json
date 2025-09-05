@@ -1,0 +1,12 @@
+{
+  "beanstalkd": {
+    "version": "dev1.13",
+    "commit": "25085c5f090031fd7110613a77fd6f816681d801",
+    "short_commit": "25085c5",
+    "commit_date": "",
+    "commit_message": "",
+    "repository": "https://github.com/beanstalkd/beanstalkd",
+    "last_checked": "2025-09-05T19:59:35Z"
+  },
+  "last_update": "2025-09-05T19:59:35Z"
+}
