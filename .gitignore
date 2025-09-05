@@ -1,0 +1,13 @@
+*.src.rpm
+*.rpm
+*.tar.gz
+*.spec
+*.service
+*.sysconfig
+.copr/*.src.rpm
+.copr/*.rpm
+.copr/*.tar.gz
+.copr/*.spec
+.copr/*.service
+.copr/*.sysconfig
+.copr/beanstalkd-master/
